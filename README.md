@@ -1,16 +1,37 @@
-# restapi_diopackage
+# REST API with Dio 🚀
 
-A new Flutter project.
+A Flutter project demonstrating REST API integration using the **Dio** package for making HTTP requests and handling API responses.
 
-## Getting Started
+## 📌 About
 
-This project is a starting point for a Flutter application.
+This project is focused on learning and implementing REST API communication in Flutter using Dio. It covers API requests, JSON parsing, model-based data handling, error handling, and displaying dynamic API data in the UI.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dio HTTP client integration
+- REST API communication
+- GET API requests
+- JSON response handling
+- Dart model classes
+- Dynamic UI updates
+- Loading state handling
+- API error handling
+- Clean and organized code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Dio
+- REST API
+- JSON
+
+## 📂 Project Structure
+
+```text
+lib/
+├── models/
+├── services/
+├── screens/
+├── widgets/
+└── main.dart
